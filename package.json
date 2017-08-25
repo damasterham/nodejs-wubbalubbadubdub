@@ -4,9 +4,6 @@
   "description": "FirstNodeJsApp",
   "main": "server.js",
   "author": "DaMasterHam",
-  // "scripts": {
-  //   "start": "node server.js"
-  // },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/damasterham/nodejs-wubbalubbadubdub.git"
