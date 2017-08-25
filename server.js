@@ -13,5 +13,5 @@ var server = http.createServer(function(req, res){
     res.end();
 });
 
-server.listen(4200);
+server.listen(process.env.prot || 4200);
 
