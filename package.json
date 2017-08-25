@@ -1,0 +1,23 @@
+{
+  "name": "first-node-js-app",
+  "version": "0.0.0",
+  "description": "FirstNodeJsApp",
+  "main": "server.js",
+  "author": "DaMasterHam",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damasterham/nodejs-wubbalubbadubdub.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damasterham/nodejs-wubbalubbadubdub/issues"
+  },
+  "homepage": "https://github.com/damasterham/nodejs-wubbalubbadubdub#readme",
+  "engines": 
+  {
+    "Node": "6.x.x"
+  }
+}
